@@ -1,0 +1,18 @@
+Task 1:
+- The pcapng file can be opened in wireshark, where the reconstructed packet bytes can be exported to files
+- 'shasum -a 256' can be used to compute the checksum
+Task 2:
+- The app permissions are listed in the AndroidManifest.xml in the APK
+- The SHA-256 hash and CN (signer) are listed by using apksigner --print-certs
+Task 3:
+- The sqlite file can be converted to CSV
+- The clients table contains one entry with xsip and asip haaving the domain names for the servers
+- The IP addresses can be found with DNS lookup
+Task 4:
+- Add the sqlite database to the data folder in the device file explorer
+- at 11:17, 2 days before Memorial day (May 29, 2020 at 11:17)
+- simon--vhost-3450@terrortime.app
+- Resulting timestamp: 1590232620 in UTC
+Task 5:
+Task 6a:
+Task 6b:
