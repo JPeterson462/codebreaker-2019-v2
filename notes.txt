@@ -14,5 +14,7 @@ Task 4:
 - simon--vhost-3450@terrortime.app
 - Resulting timestamp: 1590232620 in UTC
 Task 5:
+- OAuth Basic token captured for andre--vhost-3450: YW5kcmUtLXZob3N0LTM0NTBAdGVycm9ydGltZS5hcHA6a1pSbFhsQ0xoeTNjSHI=
+- Reversing the OAuth base64 encoding: andre--vhost-3450@terrortime.app:kZRlXlCLhy3c
 Task 6a:
 Task 6b:
