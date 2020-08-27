@@ -24,5 +24,6 @@ Task 5:
 </iq>
 Task 6a:
 - Message to simon--vhost-3450
+- Connected with spark, cleared the RSA public key, set the public key in clientDB.db, sent a message as Charlotte from the app, and fetched the message from Spark archives for submission
 Task 6b:
 Task 7:
