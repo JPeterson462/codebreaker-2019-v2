@@ -11,10 +11,18 @@ Task 3:
 Task 4:
 - Add the sqlite database to the data folder in the device file explorer
 - at 11:17, 2 days before Memorial day (May 29, 2020 at 11:17)
-- simon--vhost-3450@terrortime.app
+- simon--vhost-3450
 - Resulting timestamp: 1590232620 in UTC
 Task 5:
 - OAuth Basic token captured for andre--vhost-3450: YW5kcmUtLXZob3N0LTM0NTBAdGVycm9ydGltZS5hcHA6a1pSbFhsQ0xoeTNjSHI=
 - Reversing the OAuth base64 encoding: andre--vhost-3450@terrortime.app:kZRlXlCLhy3c
+- Token generated from @jselliott token.py: ELtNAzzWE9jfy9yKk4WVhYqobrb9c9YQD3C-DjnWlkQ.zBJqi8yvLxSfX2cwOJrVfevJYvkyLySX_8opZcKOEkM
+- charlotte--vhost-3450 is (the only one without a cell) the leader
+- After sending the below IQ packet, the debugger shows messages and the <body> of the last one includes the message.
+<iq id='info1' type='get'>
+<query xmlns='urn:xmpp:mam:tmp' queryid='f27' />
+</iq>
 Task 6a:
+- Message to simon--vhost-3450
 Task 6b:
+Task 7:
